@@ -1,11 +1,10 @@
 header {
-    background-color: white;
+    background-color: yellow;
     margin-bottom: 20px;
 }
 body {
     font-family: Roboto, arial;
     color: black;
-    background-color: black;
 }
 
 header h1 {
